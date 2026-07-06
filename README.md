@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ADITYA%20GUPTA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%26%20Systems&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=ADITYA%20GUPTA&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%26%20Systems&descAlignY=56&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+%26+Distributed+Systems+Engineer;AI%2FML+%7C+Agentic+Workflows+%7C+RAG;B.Tech+IT+%40+FCRIT+(2027)+%7C+CGPA+8.2%2F10;Open+to+SWE+Internships+%2F+Full-Time+Roles" alt="Typing SVG" />
@@ -35,7 +35,7 @@
 engineer:
   name: "Aditya Gupta"
   role: "Backend & Distributed Systems Engineer · AI/ML Engineer"
-  education: "B.Tech IT, FCRIT (2023–2027) · CGPA 8.2/10"
+  education: "B.Tech IT, FCRIT (2023–2027) · CGPA 8.4/10"
   focus:
     - Building scalable, high-availability REST APIs and distributed systems
     - AI/ML integration — RAG, multi-agent orchestration, CNN, prompt engineering
@@ -269,7 +269,7 @@ Managed technical execution of a 500+ participant college fest, coordinating a c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adbravee/adbravee/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/adbravee/adbravee/output/ocean.gif"/>
 
 </div>
 
