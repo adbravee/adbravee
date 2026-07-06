@@ -278,7 +278,7 @@ Managed technical execution of a 500+ participant college fest, coordinating a c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adbravee/adbravee/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/adbravee/adbravee/blob/main/.github/workflows/snake.yml" width="95%"/>
 
 </div>
 
