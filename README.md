@@ -1,29 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=ADITYA%20GUPTA&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%26%20Systems&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,50:4F46E5,100:312E81&text=ADITYA%20GUPTA&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=56&descSize=18"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+%26+Distributed+Systems+Engineer;AI%2FML+%7C+Agentic+Workflows+%7C+RAG;B.Tech+IT+%40+FCRIT+(2027)+%7C+CGPA+8.2%2F10;Open+to+SWE+Internships+%2F+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Backend+%26+Distributed+Systems+Engineer;AI%2FML+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;B.Tech+IT+%40+FCRIT+(2027)+%7C+CGPA+8.4%2F10;Open+to+SWE+Internships+%2F+Full-Time+Roles;Building+Scalable+AI+Systems+in+Production" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Location](https://img.shields.io/badge/Navi_Mumbai-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)
-![Education](https://img.shields.io/badge/B.Tech_IT-FCRIT-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.2%2F10-8B5CF6?style=flat-square&logo=bookstack&logoColor=white)
+<img src="https://img.shields.io/badge/Navi_Mumbai-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech_IT-FCRIT-4C1D95?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.4%2F10-8B5CF6?style=flat-square&logo=bookstack&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adbravee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta)
-[![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagupta91154@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adbravee)
+<a href="https://github.com/adbravee">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="mailto:adityagupta91154@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adbravee&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/adbravee?style=flat-square&color=6d28d9&label=Followers)
-![Stars](https://img.shields.io/github/stars/adbravee?style=flat-square&color=4c1d95&label=Stars)
+<a href="https://linkedin.com/in/aditya-gupta-ag054">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=adbravee&color=8b5cf6&style=flat-square&label=Profile+Views"/>
+
+<img src="https://img.shields.io/github/followers/adbravee?style=flat-square&color=6d28d9&label=Followers"/>
 
 </div>
 
@@ -269,7 +278,7 @@ Managed technical execution of a 500+ participant college fest, coordinating a c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adbravee/adbravee/output/ocean.gif"/>
+<img src="https://raw.githubusercontent.com/adbravee/adbravee/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
