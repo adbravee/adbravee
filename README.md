@@ -1,22 +1,22 @@
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ADBRAVEE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ADITYA%20GUPTA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%26%20Systems&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+%26+Intelligent+Systems;Open+to+Full-Time+%2F+Internship+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+%26+Distributed+Systems+Engineer;AI%2FML+%7C+Agentic+Workflows+%7C+RAG;B.Tech+IT+%40+FCRIT+(2027)+%7C+CGPA+8.2%2F10;Open+to+SWE+Internships+%2F+Full-Time+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)
-![Education](https://img.shields.io/badge/Education-B.Tech-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Navi_Mumbai-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech_IT-FCRIT-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.2%2F10-8B5CF6?style=flat-square&logo=bookstack&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adbravee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adbravee)
-[![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adbravee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta)
+[![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagupta91154@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adbravee)
 
 <br/>
@@ -33,19 +33,20 @@
 
 ```yaml
 engineer:
-  name: "Adbravee"
-  role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
+  name: "Aditya Gupta"
+  role: "Backend & Distributed Systems Engineer · AI/ML Engineer"
+  education: "B.Tech IT, FCRIT (2023–2027) · CGPA 8.2/10"
   focus:
-    - Designing scalable, production-grade software systems
-    - Building intelligent applications powered by AI/ML
-    - End-to-end product engineering — from architecture to deployment
-    - Writing clean, maintainable, and performant code
-  philosophy: "Engineering thoughtful systems that solve real problems at scale"
+    - Building scalable, high-availability REST APIs and distributed systems
+    - AI/ML integration — RAG, multi-agent orchestration, CNN, prompt engineering
+    - Containerised deployments with Docker, CI/CD via GitHub Actions & Jenkins
+    - Low-level systems programming in C++ with a performance-first mindset
+  philosophy: "Engineering at scale, with ownership and data-driven decisions"
 ```
 
 <div align="center">
 
-**Open To:** `Full-Time Opportunities` · `AI/ML Engineering Roles` · `Backend/Full Stack Roles` · `Open Source Collaboration`
+**Open To:** `SWE Internships` · `Backend / Full Stack Roles` · `AI/ML Engineering Roles` · `Open Source Contributions`
 
 </div>
 
@@ -53,21 +54,21 @@ engineer:
 
 ### ⚙️ Tech Stack
 
-**Languages**
+**Languages & CS Core**
 
-![Skills](https://skillicons.dev/icons?i=python,dart,ts,js,java,cpp&theme=dark)
+![Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,mysql&theme=dark)
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,nextjs&theme=dark)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark)
 
 **Backend & Databases**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb&theme=dark)
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,linux,apache,git,postman,jest&theme=dark)
 
 ---
 
@@ -77,11 +78,11 @@ engineer:
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Machine Learning Fundamentals | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| Deep Learning | ⭐⭐⭐⭐☆ | Neural networks, CNNs, model training pipelines |
-| NLP | ⭐⭐⭐☆☆ | Text classification, embeddings, transformer-based models |
-| MLOps | ⭐⭐⭐☆☆ | Model deployment, versioning, monitoring pipelines |
-| Data Engineering | ⭐⭐⭐⭐☆ | Data pipelines, preprocessing, structured/unstructured data handling |
+| Prompt Engineering | ⭐⭐⭐⭐☆ | Few-shot & chain-of-thought prompting for reliable LLM automation |
+| Multi-Agent Orchestration | ⭐⭐⭐⭐☆ | Designed agentic workflows in Meta OpenEnv with Gymnasium RL environments |
+| RAG Systems | ⭐⭐⭐☆☆ | Retrieval-augmented generation pipelines with Hugging Face |
+| Deep Learning / CNN | ⭐⭐⭐⭐☆ | CNN-based disease detection deployed via containerised Flask inference API |
+| AI System Evaluation | ⭐⭐⭐⭐☆ | Structured feedback on AI-generated code — logic errors, hallucinated calls |
 
 </div>
 
@@ -90,78 +91,78 @@ engineer:
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>SH25MADL — Mobile Application Development</b></summary>
+<summary><b>Online Examination & Reporting System</b></summary>
 <br/>
 
-Cross-platform mobile application built with Dart/Flutter, focused on responsive UI and efficient state management.
+Scalable real-time exam delivery platform with fail-safe scoring logic and distributed session management.
 
 | Category | Details |
 |---|---|
-| Stack | Flutter, Dart, Firebase |
-| Scale | Multi-screen mobile application |
-| Performance | Optimized widget rebuilds, lazy loading |
-| Security | Firebase Auth, secure API handling |
-| Impact | Streamlined mobile-first user experience |
-| Repository | [SH25MADL](https://github.com/adbravee/SH25MADL) |
+| Stack | JavaScript, Node.js, Express, MongoDB, React, GitHub Actions |
+| Scale | High-concurrency exam delivery without performance degradation |
+| Performance | Distributed session management with fail-safe scoring logic |
+| Security | RBAC at API layer — admin, instructor, student permissions |
+| Impact | Automated CI/CD with Jest + PyTest test gates on every merge |
+| Repository | [Online-Examination-System](https://github.com/adbravee) |
 
-Designed with a modular architecture to support scalability and maintainability across feature modules.
+Reusable OOP-based React components power a high-fidelity performance analytics dashboard, with GitHub Actions enforcing test gates across all branches before merge.
 
 </details>
 
 <details>
-<summary><b>Hivetop — Full Stack TypeScript Platform</b></summary>
+<summary><b>Crop Disease Detection — Containerised AI Deployment</b></summary>
 <br/>
 
-A TypeScript-based full stack platform emphasizing type safety, modularity, and clean API design.
+CNN-based real-time crop disease diagnostic system deployed as a containerised, reproducible ML stack.
 
 | Category | Details |
 |---|---|
-| Stack | TypeScript, Node.js, REST APIs |
-| Scale | Full stack web application |
-| Performance | Optimized API response handling |
-| Security | Input validation, environment-based secrets management |
-| Impact | Reliable and maintainable full stack architecture |
-| Repository | [hivetop](https://github.com/adbravee/hivetop) |
+| Stack | Python, Flask, Docker, Deep Learning, CNN |
+| Scale | Multi-user concurrent inference via async request handling |
+| Performance | Model caching to eliminate bottlenecks under concurrent load |
+| Security | Layered dependency management, cross-OS env variable isolation |
+| Impact | Reproducible builds across Windows, Linux, and macOS |
+| Repository | [Crop-Disease-Detection](https://github.com/adbravee) |
 
-Built following clean code principles with a strong focus on maintainability and developer experience.
+Presents AI outputs with confidence scores and actionable recommendations, translating complex ML predictions into clear end-user insights.
 
 </details>
 
 <details>
-<summary><b>Grocery Shop — MERN Stack E-Commerce</b></summary>
+<summary><b>Hive Analytical Tool</b></summary>
 <br/>
 
-A MERN stack e-commerce application demonstrating full stack development capability across the entire request lifecycle.
+High-performance multi-dimensional data filtering and visualisation platform for large-scale datasets.
 
 | Category | Details |
 |---|---|
-| Stack | MongoDB, Express, React, Node.js |
-| Scale | Full stack e-commerce web app |
-| Performance | Optimized database queries, component-level rendering |
-| Security | JWT-based authentication, protected routes |
-| Impact | Demonstrates production-style e-commerce workflows |
-| Repository | [grocery-shop](https://github.com/adbravee/grocery-shop) |
+| Stack | React, FastAPI, PostgreSQL |
+| Scale | Large-scale financial and research datasets |
+| Performance | Sub-second query response via indexed queries & connection pooling |
+| Security | Normalised schema design with controlled concurrent access |
+| Impact | Interactive multi-dimensional data exploration for stakeholders |
+| Repository | [Hive-Analytical-Tool](https://github.com/adbravee) |
 
-Implements standard e-commerce flows including cart management, authentication, and product listing.
+Engineered a high-performance filtering engine in FastAPI + PostgreSQL, paired with an interactive React dashboard for real-time data slicing.
 
 </details>
 
 <details>
-<summary><b>Expense Tracker — Personal Finance Application</b></summary>
+<summary><b>Agentic AI Workflow System</b></summary>
 <br/>
 
-A finance tracking application built with Dart, focused on clean UI and reliable data persistence.
+Multi-agent LLM-driven automation system evaluated within custom reinforcement learning environments.
 
 | Category | Details |
 |---|---|
-| Stack | Dart, Flutter, Local/Cloud Storage |
-| Scale | Single-user personal finance app |
-| Performance | Lightweight local storage operations |
-| Security | Local data encryption practices |
-| Impact | Simplifies personal expense management |
-| Repository | [Expense-Tracker](https://github.com/adbravee/Expense-Tracker) |
+| Stack | Python, Meta OpenEnv, Gymnasium APIs, Multi-agent Orchestration |
+| Scale | Experimental multi-configuration agentic benchmarking |
+| Performance | Measured reward convergence and action-policy accuracy |
+| Security | Structured validation of AI-generated code and API calls |
+| Impact | Reliable, benchmarked LLM automation pipelines |
+| Repository | [Agentic-AI-Workflow](https://github.com/adbravee) |
 
-Focused on intuitive UX for daily financial tracking and reporting.
+Built custom Gymnasium-based RL environments to simulate agentic task execution and rigorously evaluate AI system behaviour.
 
 </details>
 
@@ -169,17 +170,29 @@ Focused on intuitive UX for daily financial tracking and reporting.
 
 ### 💼 Experience
 
-**Software Engineering Intern** · Full Stack Development
-`Internship Duration`
+**Software Engineering Intern** · Bluestock Fintech, Pune (Remote)
+`May 2025 – Jun 2025`
 
-Contributed to the design and development of web-based applications, collaborating within an engineering team on production-oriented deliverables.
+Architected and optimised a high-availability full-stack REST API powering real-time IPO tracking dashboards for thousands of daily active users.
 
-- Developed and maintained full stack modules using modern JavaScript frameworks
-- Collaborated on API design, integration, and testing
-- Participated in code reviews and agile development cycles
-- Contributed to performance optimization and bug resolution
+- Reduced end-to-end API latency by 30% via non-blocking I/O and async data retrieval in Node.js
+- Designed modular, OOP-aligned React UI components for responsive cross-device data visualisation
+- Implemented Docker-based environment configuration across dev, staging, and production
+- Led peer code reviews for a 4-engineer sub-team, enforcing linting and documentation standards
+- Applied structured root-cause analysis to resolve production-level API errors under tight timelines
 
-`JavaScript` `React` `Node.js` `Git` `REST APIs`
+`Node.js` `React` `Docker` `REST APIs` `Code Review`
+
+**Documentation Team Lead & Backend Coordinator** · Student Council, FCRIT
+`Aug 2024 – Sep 2024`
+
+Managed technical execution of a 500+ participant college fest, coordinating a cross-functional team of 10.
+
+- Automated participant registration via a custom SQL-based pipeline with concurrent write-handling
+- Maintained 100% compliance with institutional documentation standards
+- Served as technical liaison, translating operational needs into technical specifications
+
+`SQL` `Automation` `Team Leadership` `Process Design`
 
 ---
 
@@ -189,31 +202,20 @@ Contributed to the design and development of web-based applications, collaborati
 
 | Recognition | Details |
 |---|---|
-| Hackathon Participation | Built and demoed applied ML/full stack solutions under time constraints |
-| Academic Excellence | Consistent strong academic performance in engineering coursework |
-| Open Source Contributions | Contributed to community repositories and personal open source projects |
+| Google Summer of Code — ns-3 (2026) | Submitted proposal #2808 for Ping & Traceroute V4 Enhancements — C++ network simulation & packet-level routing |
+| HRT CppCon Scholarship Applicant (2026) | Recognised within a competitive national applicant pool for C++ & low-level systems benchmarking |
+| Walsh-Hadamard Transformation Presentation (2026) | Recognised by FCRIT faculty for excellence in image-processing & signal-processing algorithms |
+| Competitive Programming | Consistent participation in DSA contests — graphs, DP, trees, complexity optimisation |
 
 </div>
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Technical Recognition
 
-**AWS**
-
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GSoC](https://img.shields.io/badge/GSoC_ns--3_Proposal-2026-6D28D9?style=for-the-badge&logo=googlesummerofcode&logoColor=white)
+![CppCon](https://img.shields.io/badge/HRT_CppCon_Scholarship-4C1D95?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FCRIT](https://img.shields.io/badge/FCRIT_Faculty_Recognition-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ---
 
@@ -221,11 +223,11 @@ Contributed to the design and development of web-based applications, collaborati
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/adbravee)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/adbravee)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sherrrrrrr/)
+<!--[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/adbravee)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/adbravee)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/adbravee)
-
+-->
 </div>
 
 ---
@@ -278,18 +280,18 @@ Contributed to the design and development of web-based applications, collaborati
 ```yaml
 current_focus:
   learning:
-    - Advanced Machine Learning & Deep Learning architectures
-    - System design for scalable distributed systems
+    - Advanced system design for distributed, high-concurrency backends
+    - Reinforcement learning environments for agentic AI evaluation
   building:
-    - Full stack AI-powered applications
-    - Production-grade backend services
+    - RAG-based AI applications with multi-agent orchestration
+    - High-performance backend services in C++/Python
   exploring:
-    - MLOps and model deployment pipelines
-    - Cloud-native application architecture
+    - Low-level network simulation (GSoC ns-3 contribution track)
+    - Cloud-native CI/CD pipelines with GitHub Actions & Jenkins
   open_to:
-    - Full-Time Software/AI Engineering roles
-    - Open source collaboration
-    - Technical discussions and mentorship
+    - Software Engineering Internships
+    - AI/ML Engineering roles
+    - Open source collaboration (ns-3, agentic AI tooling)
 ```
 
 ---
@@ -299,7 +301,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagupta91154@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/adbravee](https://www.linkedin.com/in/aditya-gupta-ag054/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta-ag054)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adbravee)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adbravee)
 -->
@@ -309,9 +311,8 @@ current_focus:
 
 <div align="center">
 
-*"Code with intention, engineer with purpose, ship with confidence."*
+*"Engineer at scale, own the outcome, ship with precision."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
 
 </div>
-```
