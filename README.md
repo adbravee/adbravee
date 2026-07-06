@@ -1,38 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,50:4F46E5,100:312E81&text=ADITYA%20GUPTA&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:6D28D9,50:4F46E5,100:312E81&amp;text=ADITYA%20GUPTA&amp;fontColor=ffffff&amp;fontSize=62&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&amp;descAlignY=56&amp;descSize=18"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Backend+%26+Distributed+Systems+Engineer;AI%2FML+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;B.Tech+IT+%40+FCRIT+(2027)+%7C+CGPA+8.4%2F10;Open+to+SWE+Internships+%2F+Full-Time+Roles;Building+Scalable+AI+Systems+in+Production" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Backend+%26+Distributed+Systems+Engineer;AI%2FML+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;B.Tech+IT+%40+FCRIT+(2027)+%7C+CGPA+8.4%2F10;Open+to+SWE+Internships+%2F+Full-Time+Roles;Building+Scalable+AI+Systems+in+Production" />
+
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Navi_Mumbai-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/B.Tech_IT-FCRIT-4C1D95?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.4%2F10-8B5CF6?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Navi_Mumbai-India-6D28D9?style=flat-square&amp;logo=googlemaps&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech_IT-FCRIT-4C1D95?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.4%2F10-8B5CF6?style=flat-square&amp;logo=bookstack&amp;logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/adbravee">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:adityagupta91154@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/aditya-gupta-ag054">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adbravee&color=8b5cf6&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=adbravee&amp;color=8b5cf6&amp;style=flat-square&amp;label=Profile+Views"/>
 
-<img src="https://img.shields.io/github/followers/adbravee?style=flat-square&color=6d28d9&label=Followers"/>
+<img src="https://img.shields.io/github/followers/adbravee?style=flat-square&amp;color=6d28d9&amp;label=Followers"/>
 
 </div>
 
